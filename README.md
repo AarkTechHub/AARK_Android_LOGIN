@@ -4,8 +4,7 @@ AARK Technology Hub, Login System, Animation, slide_left, slide_right, slide_up,
 This is the **LOGIN**, **SIGN UP**, and **FORGOT PASSWORD** page project developed in *Android Studio* by **AARK TECHNOLOGY HUB PVT LTD**,
 with *Animation Transition* and *Custom Fonts*.
 
-![Working Image]
-(http://aarktechub.com/img/AARK-Login-system-vid.gif)
+![Working Image](http://aarktechub.com/img/AARK-Login-system-vid.gif)
 
 The designing part can be developed in the *ADOBE XD, ADOBE
 ILLUSTRATOR or any other Design platform as per the requirement*. In our case
