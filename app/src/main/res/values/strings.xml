@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AARK Login System</string>
+    <string name="name">Name</string>
+    <string name="email_name">Email</string>
+    <string name="password_name">Password</string>
+    <string name="forget_name">Forgot Password</string>
+    <string name="password_again">Password Again</string>
+    <string name="loginText">Login</string>
+    <string name="reset_pass">Reset Password</string>
+</resources>
