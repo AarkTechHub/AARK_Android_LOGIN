@@ -1,4 +1,4 @@
-# AARK_Android_LOGIN
+# AARK Android LOGIN
 AARK Technology Hub, Login System, Animation, slide_left, slide_right, slide_up, slide_down 
 
 This is the **LOGIN**, **SIGN UP**, and **FORGOT PASSWORD** page project developed in *Android Studio* by **AARK TECHNOLOGY HUB PVT LTD**,
