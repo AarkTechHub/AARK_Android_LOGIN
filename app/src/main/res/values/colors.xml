@@ -3,4 +3,15 @@
     <color name="colorPrimary">#BA54F5</color>
     <color name="colorPrimaryDark">#CC82F7</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <!--    color for tab and screen text-->
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_decription_color">#656565</color>
+
+    <!--    card color -->
+    <color name="graylight">#fafafa</color>
+    <color name="lightorange">#F9A13C</color>
+    <color name="darkorange">#F48E18</color>
+    <color name="lightblue">#6c63ff</color>
 </resources>
