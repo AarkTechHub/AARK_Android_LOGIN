@@ -7,4 +7,16 @@
     <string name="password_again">Password Again</string>
     <string name="loginText">Login</string>
     <string name="reset_pass">Reset Password</string>
+    <string name="allen_george">Allen George</string>
+    <string name="user_profile">User Profile</string>
+    <string name="check_your_setting_activity">Check Your Setting Activity</string>
+    <string name="setting">Setting</string>
+    <string name="check_your_edit_activity">Check Your Edit Activity</string>
+    <string name="edit">Edit</string>
+    <string name="check_your_search_activity">Check Your Search Activity</string>
+    <string name="search">Search</string>
+    <string name="check_your_home_activity">Check Your Home Activity</string>
+    <string name="home">Home</string>
+    <string name="todo">TODO</string>
+    <string name="likes">Likes</string>
 </resources>

@@ -12,6 +12,7 @@ import android.widget.Button;
 
 import com.aarktechhub.loginsystem.MainActivity;
 import com.aarktechhub.loginsystem.R;
+import com.aarktechhub.loginsystem.dashboard.DashboardActivity;
 import com.aarktechhub.loginsystem.walkthrough.adapter.IntroViewPagerAdapter;
 import com.aarktechhub.loginsystem.walkthrough.adapter.WalkthroughItem;
 import com.google.android.material.tabs.TabLayout;
@@ -93,7 +94,7 @@ public class Intro_walkthrough_Activity extends AppCompatActivity {
         getstart_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(Intro_walkthrough_Activity.this, MainActivity.class));
+                startActivity(new Intent(Intro_walkthrough_Activity.this, DashboardActivity.class));
                 finish();
 
             }
